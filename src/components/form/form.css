@@ -1,0 +1,11 @@
+form{
+    height: 18.25em;
+    width: 19em;
+
+    padding-top: 10px;
+}
+@media only screen and (max-width: 500px) {
+   form{
+       height: 14em;
+   }
+  }
